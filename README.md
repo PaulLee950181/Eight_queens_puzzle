@@ -1,1 +1,1 @@
-# eight_queens_puzzle
+# Eight_queens_puzzle
